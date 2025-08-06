@@ -1,0 +1,8 @@
+prefix=/home/snehal-bobabe/pure_pursuit_ws/devel
+
+Name: pure_pursuit_controller
+Description: Description of pure_pursuit_controller
+Version: 0.0.0
+Cflags: -I/home/snehal-bobabe/pure_pursuit_ws/src/pure_pursuit_controller/include
+Libs: -L${prefix}/lib -lpure_pursuit_controller
+Requires: roscpp std_msgs nav_msgs geometry_msgs tf roslib

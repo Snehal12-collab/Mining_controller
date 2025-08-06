@@ -1,0 +1,2 @@
+pure_pursuit_controller
+-DCATKIN_DEVEL_PREFIX=/home/snehal-bobabe/pure_pursuit_ws/devel -DCMAKE_INSTALL_PREFIX=/home/snehal-bobabe/pure_pursuit_ws/install -G Unix Makefiles
