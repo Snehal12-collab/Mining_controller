@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/snehal-bobabe/Mining_controller_ws/src/articulation_stanley_controller/include/articulation_stanley_controller/stanley_controller.h
+
+/home/snehal-bobabe/Mining_controller_ws/src/articulation_stanley_controller/src/stanley_controller.cpp
+articulation_stanley_controller/stanley_controller.h
+/home/snehal-bobabe/Mining_controller_ws/src/articulation_stanley_controller/src/articulation_stanley_controller/stanley_controller.h
+cmath
+-
+
