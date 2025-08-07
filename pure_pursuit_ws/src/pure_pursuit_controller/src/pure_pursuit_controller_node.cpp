@@ -103,7 +103,7 @@ int main(int argc, char **argv)
     // Vehicle state (initial conditions)
     double x = 0.0, y = 0.0, yaw = 0.0;
     double v = 1.0;       // constant speed
-    double dt = 0.05;
+    double dt = 0.1;
 
     // Path to be published for car
     nav_msgs::Path car_path;
