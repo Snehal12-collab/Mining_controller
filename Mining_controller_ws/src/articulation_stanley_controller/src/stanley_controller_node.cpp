@@ -141,7 +141,7 @@ for (size_t i = 0; i < waypoints.size(); ++i) {
 
     
     
-    double l1 = 1.89, l2 = 1.89, l=3.78, v = 1.0;
+    double l1 = 1.0, l2 = 1.0, l=2.00, v = 1.0;
     // double dt = 0.1;
     // double time = 0.0;
     
