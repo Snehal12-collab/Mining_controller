@@ -136,7 +136,7 @@ for (size_t i = 0; i < waypoints.size(); ++i) {
     // // Initial conditions
     // double x1 = 0.0, y1 = 0.0, theta1 = 0.0;
     // double x2 = 0.0, y2 = 0.0, theta2 = 0.0;
-    double phi = 40 *  3.14 / 180;
+    double phi = 0 *  3.14 / 180;
     double phi_dot = 0.0;
 
     
